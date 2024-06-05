@@ -9,3 +9,5 @@ This may take some time, as it involves downloading and installing the selected 
 Once the installation is complete, launch Visual Studio.
 Sign in with your Microsoft account or create one if prompted.
 On the welcome screen, select your development environment. 
+Edit group
+When you split an editor (using the Split Editor or Open to the Side commands), a new editor region (edit group) is created which can hold a group of items. You can open as many editor groups as you like side by side vertically and horizontally.
