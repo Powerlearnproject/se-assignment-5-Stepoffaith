@@ -16,4 +16,18 @@ Activity Bar - Located on the far left-hand side. Lets you switch between views 
 The Command Palette provides access to many commands. You can run editor commands, open files, search for symbols, and see a quick outline of a file, all using the same interactive window. Here are a few tips: Ctrl+P enables you to navigate to any file or symbol by typing its name.
 Vs extension are found on the inside of vs code at the left side listed going down. Prettier automatically finished your code, we have javascript booster as well. They are used to help make your creating the code easier and manageable.
 VS Code's terminal has additional functionality called shell integration that tracks where commands are run with decorations on the left of a command and in the scrollbar:
-
+7. Creating Files and Folders:
+   - To create a new file, you can right-click on the Explorer panel (located on the left side of the VS Code interface) and select "New File."
+   - To create a new folder, right-click in the Explorer panel and select "New Folder."
+Opening Files and Folders:**
+   - To open a file, you can simply double-click on the file in the Explorer panel.
+   - To open a folder, you can go to the File menu and select "Open Folder" or use the shortcut `Ctrl+K, Ctrl+O`.
+Managing Files and Folders:**
+   - You can rename files and folders by right-clicking on them and selecting "Rename."
+   - Deleting files and folders can be done by right-clicking and selecting "Delete" or using the delete key on your keyboard.
+Navigating Between Files and Directories Efficiently:
+   - Use the Explorer panel on the left side to navigate between files and folders within your project.
+   - Utilize the "Go to File" feature by pressing `Ctrl+P`. This allows you to quickly search and open files by typing their names.
+   - Use the breadcrumbs at the top of the editor to navigate up and down the directory structure.
+   - You can also use keyboard shortcuts like `Ctrl+Tab` to switch between open files and `Ctrl+\` to toggle the Explorer panel.
+8. 
