@@ -43,4 +43,21 @@ Modifying Keybindings:
    - Search for `Keybindings` in the settings search bar.
    - Click on `Edit in settings.json` to customize keybindings.
    - For example, to change a keybinding, you would add an entry like `"key": "ctrl+shift+c", "command": "editor.action.commentLine"` to map `Ctrl+Shift+C` to the `Comment Line` command.
-9. 
+
+9. Install necessary extensions: Make sure you have the necessary extensions installed for the programming language you are using. For example, if you are using Python, you would need the Python extension.
+Open your project folder:  Open the project folder containing your code in VS Code.
+Create a launch configuration:  Click on the debug icon on the sidebar and then click on "create a launch.json file". Select the environment that corresponds to your project (e.g., Node.js for JavaScript programs).
+Set breakpoints:   Click on the line number where you want to set a breakpoint. This will pause the program execution at that point.
+Start debugging:  Press F5 to start debugging. You can also select the specific configuration you want to debug if you have multiple configurations.
+Debug your program:   Once the program pauses at a breakpoint, you can use the debugging controls to step through the code, inspect variables, and analyze the program's behavior.
+Key debugging features in VS Code:
+1. Breakpoints
+2. Step-through debugging
+3. Watch variables
+4. Call stack:
+5. Debug console
+6. Hover over variables
+7. Conditional breakpoints
+8. Run configurations
+
+10. 
