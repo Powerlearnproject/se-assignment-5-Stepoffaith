@@ -60,4 +60,15 @@ Key debugging features in VS Code:
 7. Conditional breakpoints
 8. Run configurations
 
-10. 
+10. Install Git and VS Code then Initialize a Git Repository:
+   a. Open the folder you want to version control in VS Code.
+   b. Click on the Source Control icon on the left sidebar (Ctrl+Shift+G).
+   c. Click the "Initialize Repository" button or enter `git init` in the terminal.
+Make Commits:
+   a. Stage your changes: In the Source Control view, you will see the list of changed files. Click on the "+" button next to the files you want to include in the commit.
+   b. Add a commit message: Enter a commit message in the text box at the top of the Source Control view.
+   c. Click the checkmark icon to commit your changes.
+Push Changes to GitHub:
+   a. Create a GitHub repository: Go to GitHub and create a new repository.
+   b. Copy the repository URL.
+   c. In VS Code, go to the Source Control view, click on the 3 dots menu (More Actions), and choose "Push". Paste the repository URL and push your changes.
